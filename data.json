@@ -1,0 +1,134 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "name": "Playlist 1",
+      "songs": [
+        "/path/to/song1.mp3",
+        "/path/to/song2.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "caca",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia.mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "cacota",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia.mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "sa",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "asdas",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "pipi",
+      "path": [
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (2).mp3"
+      ]
+    },
+    {
+      "name": "playlist4",
+      "path": [
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.) - copia.mp3",
+        "C:\\Users\\Juan\\Music\\anybody can find love (except you.).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3 - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Br3_4kC0_r3.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (2).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (3).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (4).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (5).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (6).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia (7).mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia - copia.mp3",
+        "C:\\Users\\Juan\\Music\\Soundstatues_-_Amnesia.mp3"
+      ],
+      "id": 8
+    }
+  ],
+  "folderPaths": [
+    "/path/to/folder1",
+    "/path/to/folder2"
+  ]
+}

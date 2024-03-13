@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: var(--background);
+  color: white;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+
+}
+
+:root {
+  --primary: #111114;
+  --background: #15161A;
+  --tertiary: #3c3d48;
+  --secondary: #1A1B20;
+  --transparent: #34373cb9;
+
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 250px auto;
+  grid-template-rows: 7vh 83vh 10vh;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+header {
+  grid-column: span 2;
+}
+#config{
+  transform: translateY(-100%);
+  transition: transform 0.5s;
+  display: grid;
+  grid-template-columns: 250px auto;
+}
+
+#playerControl {
+  grid-column: span 1;
+  box-shadow: 4px -5px 5px rgba(0, 0, 0, 0.667);
+}
+#playlist{
+  grid-template-columns: auto 50px;
+  grid-auto-rows: 35px;
+
+}
+main {
+  grid-column: span 1;
+  box-shadow: inset 5px 5px 4px rgba(0, 0, 0, 0.667);
+}
+
+.lightEffect {
+  box-shadow: inset 0px 0px 4px rgba(255, 255, 255, 0.667);
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--tertiary);
+  border-radius: 13px;
+}
+
+#tracker {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  width: 100%;
+  ;
+}
+
+.mainCol2{
+  grid-column: span 2;
+
+}
+/* Removes default focus */
+#tracker:focus {
+  outline: none;
+}
+
+/* slider track */
+#tracker::-webkit-slider-runnable-track {
+  background-color: var(--tertiary);
+  border-radius: 0.5rem;
+  height: 3px;
+}
+
+/* slider thumb */
+#tracker::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  /* Override default look */
+  appearance: none;
+  margin-top: -6px;
+  /* Centers thumb on the track */
+  background-color: var(--primary);
+  border-radius: 50%;
+  height: 17px;
+  width: 17px;
+  border: 3px solid var(--tertiary);
+  transition: border 0.15s ease-in-out;
+}
+
+/* Changes the thumb color on hover */
+#tracker::-webkit-slider-thumb:hover {
+  border: 4px solid var(--tertiary);
+}
+
+@media (max-width: 768px) {
+  #sidebar {
+    display: none;
+  }
+
+  main {
+    grid-column: span 2;
+  }
+  #playerControl {
+    grid-column: span 2;
+  }
+  #test{
+    display: none;
+  }
+}
+
+
+
